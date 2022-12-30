@@ -1,0 +1,21 @@
+List Students - To Do List
+
+1.Create Student.java
+
+2.Create StudentDBUtil.java
+
+3.Create StudentControllerServlet.java
+
+4.Create JSP page: list-students.jsp
+
+//Add student
+1. Update list-students.jsp
+	New "Add Student" button
+	
+2.Create HTML form for new student
+
+3.Update StudentControllerServlet
+   Handle request to add student
+   
+4.Update StudentDbUtil
+  Add new JDBC method:addStudent(...)   	
